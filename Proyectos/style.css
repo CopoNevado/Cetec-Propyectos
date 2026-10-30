@@ -1,0 +1,44 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(236, 208, 125);
+    color: rgb(231, 0, 196);
+    display: flex;
+}
+.main {
+    display: flex;
+    gap: 60px;
+    box-shadow: inset;
+    width: 300px;
+    height: fit-content;
+}
+header{
+    border: 3px;
+    border-radius: 1%;
+    box-shadow: 0 10px 20px rgba(red, green, blue, alpha);
+    text-shadow: 5px 2px 3px;
+}
+ h1{
+    display:block;
+    display: inline;
+}
+header p {
+
+}
+nav {
+
+}
+nav a {
+
+}
+button {
+    transition: 1s;
+}
+button:hover {
+    background-color: blueviolet;
+    transform: matrix(1);
+}
+img {
+    
+}
